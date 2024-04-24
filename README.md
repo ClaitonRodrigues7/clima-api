@@ -5,9 +5,9 @@
 
 ### Tecnologias Utilizadas
 
-* [JavaScript]
-* [CSS]
-* [HTML]
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 
